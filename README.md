@@ -15,5 +15,5 @@ Here is a list of some of my works...
 8) A social media site with authentication: http://boiling-chamber-85237.herokuapp.com/
 
 My Skills are: 
-React,Redux,Node,Express, MongoDB,HTML,CSS,Vanilla JavaScript,REST API,Git, Github,Async Javascript,ES6/ES7,Javascript DOM,
+React,Redux,Node,EJS Template,Express, MongoDB,HTML,CSS,Vanilla JavaScript,REST API,Git, Github,Async Javascript,ES6/ES7,Javascript DOM,
 Socket.io,Context API,Chart JS,Mongoose,Node JWT,Bcryptjs,Express Validator,Postman, LaTex,TypeScript,React Native(Expo CLI)
