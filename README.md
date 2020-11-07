@@ -8,7 +8,7 @@ Here is a list of some of my works... \
 Live Link: http://blooming-depths-14396.herokuapp.com/ \
 GitHub Link : https://github.com/DanteDX/ChatTimeApp 
 \
-2)Video Search Application where youtube data api is used,
+2)Video Search Application where youtube data api is used,\
 Live Link: https://shielded-hollows-16555.herokuapp.com/ 
 GitHub Link: https://github.com/DanteDX/VideoSearchEngine
 \
