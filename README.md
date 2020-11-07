@@ -1,8 +1,8 @@
 Hi There! I am MERN Stack Developer.(<-- three spaces)
 
-Linkedin: https://www.linkedin.com/in/shadman-matin-piyal-b80041ba/ (<-- two spaces)
-Email_one: piyal.quantum789@gmail.com (<-- two spaces)
-Email_two: teacher.martin789@gmail.com (<-- three spaces)
+Linkedin: https://www.linkedin.com/in/shadman-matin-piyal-b80041ba/ \
+Email_one: piyal.quantum789@gmail.com \
+Email_two: teacher.martin789@gmail.com \
 
 Here is a list of some of my works...(<-- two spaces)
 1)Chatting Application: http://blooming-depths-14396.herokuapp.com/ (<-- two spaces)
