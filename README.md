@@ -11,7 +11,7 @@ GitHub Link : https://github.com/DanteDX/ChatTimeApp
 2)Video Search Application where youtube data api is used,\
 Live Link: https://shielded-hollows-16555.herokuapp.com/ 
 GitHub Link: https://github.com/DanteDX/VideoSearchEngine
-\
+\ \
 3)Covid 19 Information Finder,
 Live Link: https://covid19dantedx.netlify.app/ \
 GitHub Link: https://github.com/DanteDX/Covid19Information
