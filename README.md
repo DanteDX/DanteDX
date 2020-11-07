@@ -1,4 +1,4 @@
-Hi There! I am MERN Stack Developer.(<-- three spaces)
+Hi There! I am MERN Stack Developer.
 
 Linkedin: https://www.linkedin.com/in/shadman-matin-piyal-b80041ba/ \
 Email_one: piyal.quantum789@gmail.com \
@@ -11,7 +11,7 @@ Here is a list of some of my works... \
 5)A demo of a site of viewing news and chat at the same time using 3rd party api: https://www.youtube.com/watch?v=Ha8EKaK_QuI&feature=youtu.be \
 6) A demo of a site for searching latest news instantly: https://www.youtube.com/watch?v=-a7gEGg8ieA&feature=youtu.be \
 7)A Blog Posting site with authentication: https://protected-peak-80259.herokuapp.com/blogs \
-8) A social media site with authentication: http://boiling-chamber-85237.herokuapp.com/ \
+8) A social media site with authentication: http://boiling-chamber-85237.herokuapp.com/ 
 
 My Skills are:  \
 React,Redux,Node,EJS Template,Express, MongoDB,HTML,CSS,Vanilla JavaScript,REST API,Git, Github,Async Javascript,ES6/ES7,Javascript DOM,
