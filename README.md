@@ -4,8 +4,12 @@ Linkedin: https://www.linkedin.com/in/shadman-matin-piyal-b80041ba/ \
 Email_one: piyal.quantum789@gmail.com \
 Email_two: teacher.martin789@gmail.com \
 Here is a list of some of my works... \
-1)Chatting Application: http://blooming-depths-14396.herokuapp.com/ \
-2)Video Search Application where youtube data api is used: https://shielded-hollows-16555.herokuapp.com/ \
+1)Chatting Application, 
+Live Link: http://blooming-depths-14396.herokuapp.com/ \
+GitHub Link : https://github.com/DanteDX/ChatTimeApp \
+2)Video Search Application where youtube data api is used,
+Live Link: https://shielded-hollows-16555.herokuapp.com/ 
+GitHub Link: https://github.com/DanteDX/VideoSearchEngine \ 
 3)Covid 19 Information Finder: https://covid19dantedx.netlify.app/ \
 4)A dummy book & guitar shop site: https://thawing-beyond-01808.herokuapp.com/ \
 5)A demo of a site of viewing news and chat at the same time using 3rd party api: https://www.youtube.com/watch?v=Ha8EKaK_QuI&feature=youtu.be \
