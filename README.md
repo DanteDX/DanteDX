@@ -1,6 +1,6 @@
 Hi There! I am MERN Stack Developer.
 
-Linkedin: https://www.linkedin.com/in/shadman-matin-piyal-b80041ba/ \
+Linkedin: https://www.linkedin.com/in/md-shadman-matin-piyal-b80041ba/ \
 Email_one: piyal.quantum789@gmail.com \
 Email_two: teacher.martin789@gmail.com \
 Here is a list of some of my works... \
