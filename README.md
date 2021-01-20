@@ -1,4 +1,14 @@
-Hi There! I am MERN Stack Developer.
+Hi, I am a Full Stack Web Developer with prime focus on JavaScript, TypeScript, ReactJS, NodeJS; \
+My Skills are: \
+Programming Languages: JavaScript, TypeScript, Python \ 
+FrontEnd: ReactJS, Redux, HTML5, CSS3, \
+BackEnd: NodeJS, ExpressJS, Serverless Framework, REST API, GraphQL \
+Database: AWS DynamoDB, MongoDB, MySQL, AWS RDS \
+AWS: S3 Bucket, Lambda Functions, EC2 \
+Unit/Integration Testing: Jest, Enzyme \
+CI/CD Pipeline: Travis CI \
+Deployment: Docker, Webpack \ 
+
 
 Linkedin: https://www.linkedin.com/in/md-shadman-matin-piyal-b80041ba/ \
 Email_one: piyal.quantum789@gmail.com \
@@ -46,6 +56,4 @@ GitHub Link: https://github.com/DanteDX/beybladeBreakers/
 Guilt With: React,Node , MongoDB, Node JWT, Bcryptjs, Express
 
 
-My Skills are:  \
-React,Redux,Node,EJS Template,Express, MongoDB,HTML,CSS,Vanilla JavaScript,REST API,Git, Github,Async Javascript,ES6/ES7,Javascript DOM,
-Socket.io,Context API,Chart JS,Mongoose,Node JWT,Bcryptjs,Express Validator,Postman, LaTex,TypeScript,React Native(Expo CLI)
+
