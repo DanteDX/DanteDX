@@ -8,6 +8,7 @@ AWS: S3 Bucket, Lambda Functions, EC2 \
 Unit/Integration Testing: Jest, Enzyme \
 CI/CD Pipeline: Travis CI \
 Deployment: Docker, Webpack \ 
+Authentication: Node JWT, Auth0
 
 
 Linkedin: https://www.linkedin.com/in/md-shadman-matin-piyal-b80041ba/ \
