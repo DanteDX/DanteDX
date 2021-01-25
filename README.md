@@ -5,7 +5,7 @@ FrontEnd: ReactJS, Redux, HTML5, CSS3,Material UI, NextJS \
 BackEnd: NodeJS, ExpressJS, Serverless Framework, REST API, GraphQL \
 Database: AWS DynamoDB, MongoDB, MySQL, AWS RDS \
 AWS: S3 Bucket, Lambda Functions, EC2 \
-Unit/Integration Testing: Jest, Enzyme \
+Testing: Jest, Enzyme, Cypress, React Testing Library \
 CI/CD Pipeline: Travis CI  \
 Deployment: Docker, Webpack, nginx  \ 
 Authentication: Node JWT, Auth0
