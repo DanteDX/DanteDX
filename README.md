@@ -1,8 +1,8 @@
 Hi, I am a Full Stack Web Developer with prime focus on JavaScript, TypeScript, ReactJS, NodeJS; \
 My Skills are: \
 Programming Languages: JavaScript, TypeScript, Python \ 
-FrontEnd: ReactJS, Redux, HTML5, CSS3,Material UI, NextJS \
-BackEnd: NodeJS, ExpressJS, Serverless Framework, REST API, GraphQL \
+FrontEnd: ReactJS, Redux, HTML5, CSS3,Material UI, NextJS, Tailwind CSS,Apollo Client \
+BackEnd: NodeJS, ExpressJS, Serverless Framework, REST API, GraphQL, Firebase \
 Database: AWS DynamoDB, MongoDB, MySQL, AWS RDS \
 AWS: S3 Bucket, Lambda Functions, EC2 \
 Testing: Jest, Enzyme, Cypress\
